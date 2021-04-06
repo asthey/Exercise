@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Exercise</string>
+    <string name="tEmail">Email</string>
+    <string name="tPassword">Password</string>
+    <string name="tombol">Sign-In</string>
+    <string name="namaitem">Nama Item</string>
+    <string name="datakontak">Data Kontak</string>
+    <string name="detailkontak">Detail Kontak</string>
+    <string name="nama">Nama</string>
+    <string name="notel">Nomor Telpon</string>
+    <string name="lihatdata">Lihat Data</string>
+    <string name="lihatnomor">Lihat Nomor</string>
+</resources>
